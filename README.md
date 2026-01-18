@@ -39,3 +39,7 @@ Designed a network topology with multiple subnets and VLANs in Packet Tracer. Co
 **Outcome:**  
 Gained hands-on experience in network configuration and basic security implementation, and strengthened understanding of how network security concepts are applied in simulated environments.
 
+## Learning Journey
+Throughout my cybersecurity studies, I have developed a stronger understanding of networking fundamentals, security principles, and how theoretical concepts are applied in practical scenarios. Hands-on laboratory exercises have helped me better understand topics such as network configuration, traffic analysis, and basic security assessments.
+One of the challenges I faced was fully understanding complex networking and security concepts, especially when applying them in real-world scenarios. However, through continuous practice, reviewing course materials, and experimenting with tools, I have gradually improved my confidence and problem-solving skills.
+Moving forward, I plan to further strengthen my technical abilities by gaining more hands-on experience, exploring advanced cybersecurity tools, and deepening my understanding of network and system security to better prepare for a professional cybersecurity career.
