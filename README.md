@@ -47,3 +47,6 @@ Moving forward, I plan to further strengthen my technical abilities by gaining m
 ## Career Objective
 My career objective is to pursue a professional role in the cybersecurity field, with a focus on network security and cyber defense. I aim to apply my technical knowledge, hands-on skills, and continuous learning mindset to help organizations protect their systems and networks. In the long term, I hope to further specialize in advanced cybersecurity technologies and contribute to building secure and resilient digital infrastructures.
 
+## Contact Information
+GitHub: https://xiaoyu5497.github.io/cybersecurity-portfolio/
+Email: peng.xiaoyu121@outlook.com
