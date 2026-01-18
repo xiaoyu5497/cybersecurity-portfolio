@@ -43,3 +43,7 @@ Gained hands-on experience in network configuration and basic security implement
 Throughout my cybersecurity studies, I have developed a stronger understanding of networking fundamentals, security principles, and how theoretical concepts are applied in practical scenarios. Hands-on laboratory exercises have helped me better understand topics such as network configuration, traffic analysis, and basic security assessments.
 One of the challenges I faced was fully understanding complex networking and security concepts, especially when applying them in real-world scenarios. However, through continuous practice, reviewing course materials, and experimenting with tools, I have gradually improved my confidence and problem-solving skills.
 Moving forward, I plan to further strengthen my technical abilities by gaining more hands-on experience, exploring advanced cybersecurity tools, and deepening my understanding of network and system security to better prepare for a professional cybersecurity career.
+
+## Career Objective
+My career objective is to pursue a professional role in the cybersecurity field, with a focus on network security and cyber defense. I aim to apply my technical knowledge, hands-on skills, and continuous learning mindset to help organizations protect their systems and networks. In the long term, I hope to further specialize in advanced cybersecurity technologies and contribute to building secure and resilient digital infrastructures.
+
